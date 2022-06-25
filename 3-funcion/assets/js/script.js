@@ -5,5 +5,5 @@ function pintar(ele,color){
     var color="yellow";
     ele = document.getElementById("ele1")
     ele.addEventListener("click",function() {
-        pintar(ele,color);
+        pintar(ele,color);w
     })
