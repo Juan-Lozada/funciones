@@ -5,13 +5,16 @@ body {
     background-color: #2C3639;
 }   
 
-button{
-    width: 5vh;
-    height: 5vh;
-}
-
-
 .logo {
     width: 10px;
     height: 5px;
+}
+
+.container img {
+    width: 72vh;
+    height: 45vh;
+}
+
+.card {
+    width: 72vh;
 }
